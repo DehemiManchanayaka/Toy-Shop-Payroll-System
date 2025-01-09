@@ -1,0 +1,87 @@
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe.config
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.pdb
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csprojResolveAssemblyReference.cache
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Form1.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.MainMenu.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Properties.Resources.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.GenerateResource.Cache
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.CoreCompileInputs.cache
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.exe
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.pdb
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeModule.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.RegisterEmployee.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.UpdateEmployees.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.DeleteEmployee.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeDetails.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewEmployees.resources
+C:\Users\ESOFT\source\repos\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewIndividual.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe.config
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.pdb
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csprojResolveAssemblyReference.cache
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.DeleteEmployee.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeDetails.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeModule.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Form1.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.MainMenu.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Properties.Resources.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.RegisterEmployee.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.UpdateEmployees.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewEmployees.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewIndividual.resources
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.GenerateResource.Cache
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.CoreCompileInputs.cache
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.exe
+C:\Users\ESOFT\Desktop\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.pdb
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe.config
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.pdb
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.DeleteEmployee.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeDetails.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeModule.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Form1.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.MainMenu.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Properties.Resources.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.RegisterEmployee.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.UpdateEmployees.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewEmployees.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewIndividual.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.GenerateResource.Cache
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.CoreCompileInputs.cache
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.exe
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.pdb
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.SettingsForm.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.CalculateSalary.resources
+C:\Users\ESOFT\Desktop\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csprojResolveAssemblyReference.cache
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe.config
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.exe
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.pdb
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.exe
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\ToyShopApp.pdb
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\mscorlib.dll
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\System.Net.Http.dll
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\System.Net.Http.xml
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\normidna.nlp
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\normnfc.nlp
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\normnfd.nlp
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\normnfkc.nlp
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\bin\Debug\normnfkd.nlp
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csprojResolveAssemblyReference.cache
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.CalculateSalary.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.DeleteEmployee.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeDetails.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.EmployeeModule.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Form1.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.MainMenu.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.Properties.Resources.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.RegisterEmployee.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.SettingsForm.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.UpdateEmployees.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewEmployees.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.ViewIndividual.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.csproj.GenerateResource.Cache
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.SalaryMenu.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.MonthlySalReport.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.SalarySummaryMonthsEmployee.resources
+C:\Users\Tharaka\Downloads\ToyApp_2023_11_21\ToyApp_2023_11_21\ToyApp_2023_11_21\Programmin ToyApp\Programmin ToyApp\ToyShopApp\ToyShopApp\ToyShopApp\obj\Debug\ToyShopApp.SalaryMonthlyRange.resources
